@@ -8,4 +8,8 @@ Con estas razones perdía el pobre caballero el juicio, y desvelábase por enten
 
 
 
+<<<<<<< HEAD
 Ejemplo antes de el examen  dsadsakdjhshdsa
+=======
+Ejemplo antes de el examen fdjfkdsdfdsfdsfds
+>>>>>>> ab91806d0b77f8bc98e399932b4c3a224c4843f8
